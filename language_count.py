@@ -2,10 +2,10 @@ import requests
 import csv
 
 # Replace 'YOUR_CLIENT_ID' with your actual Twitch Client ID
-client_id = 't77h8x9aclmpdsfs06ctiojy6iuq5k'
+client_id = ''
 
 # Replace 'YOUR_OAUTH_TOKEN' with your actual Twitch OAuth token
-oauth_token = 'ersegsbyhzq9icjiyxg5re890bu7ie'
+oauth_token = ''
 
 # Set the API endpoint for getting live streams
 endpoint = 'https://api.twitch.tv/helix/streams'
